@@ -1,0 +1,13 @@
+chardet
+matplotlib
+networkx
+numpy
+pandas
+python-terrier
+scipy
+spacy
+torch
+tqdm
+transformers
+transformers[sentencepiece]
+wordcloud
